@@ -1,0 +1,165 @@
+# Translation of Plugins - WP Content Copy Protection with Color Design - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - WP Content Copy Protection with Color Design - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-07-30 10:14:01+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - WP Content Copy Protection with Color Design - Stable (latest release)\n"
+
+#: manage/admin.php:180
+msgid "Disable F12 to open the console window and Ctr+U"
+msgstr "Отключить F12, чтобы открыть окно консоли и Ctr + U"
+
+#: manage/admin.php:162
+msgid "Give a white blank page when the browser javascript is off to prevent your content"
+msgstr "Отображает пустую страницу, когда в браузере отключен JavaScript для защиты вашего контента"
+
+#: manage/admin.php:156
+msgid "Protect when Javascript is off"
+msgstr "Защитить, когда JavaScript выключен"
+
+#: manage/admin.php:186
+msgid "\"Not allowed\" message on print preview page<br>(CTRL + P)"
+msgstr "Сообщение \"Запрещено\" на странице предварительного просмотра печати<br>(CTRL + P)"
+
+#: wp_copy_design.php:483
+msgid "You cannot print preview this page"
+msgstr "Вы не можете предварительно распечатать эту страницу"
+
+#: manage/admin.php:149
+msgid "Selecting Text"
+msgstr "Выбор текста"
+
+#: wp_copy_design.php:115
+msgid "This plugin will display how many times post and page viewed. It shows total view of access per day, week, month, and all days. Those view are showed with titles and permalink so that you can keep track of each pages in details."
+msgstr "Этот плагин показывает, сколько раз просматривался пост и страница. Он показывает общее количество просмотров за день, неделю, месяц и все дни. Эти просмотры отображаются с заголовками и постоянной ссылкой, так что вы можете отслеживать каждую страницу в деталях."
+
+#: wp_copy_design.php:98 wp_copy_design.php:109
+msgid "You can install \"Post Views Stats Counter\""
+msgstr "Вы можете установить \"Счетчик статистики просмотров записей\""
+
+#: wp_copy_design.php:94 wp_copy_design.php:105
+msgid "Would you like to install another recommended SEO plugin? :Free"
+msgstr "Хотите установить еще один рекомендуемый SEO плагин? :Бесплатно"
+
+#: manage/admin.php:275
+msgid "Additional plugins are available for free."
+msgstr "Доступны и другие бесплатные плагины."
+
+#: manage/admin.php:270 manage/admin.php:272
+msgid "Post Views Stats Counter"
+msgstr "Счетчик статистики просмотров записей"
+
+#: manage/admin.php:267
+msgid "Another recommended SEO plugin:"
+msgstr "Еще один рекомендуемый SEO-плагин:"
+
+#: manage/admin.php:228
+msgid "Protect only specified posts"
+msgstr "Защитить только указанные записи"
+
+#: manage/admin.php:217 manage/admin.php:231
+msgid "Input post ID. ex: 1,2,3,4"
+msgstr "Введите ID записи. напр.: 1,2,3,4"
+
+#: manage/admin.php:214
+msgid "Exclude posts"
+msgstr "Исключать записи"
+
+#: manage/admin.php:200
+msgid "Exclude admin user"
+msgstr "Исключить пользователя admin"
+
+#: manage/admin.php:221
+msgid "Protect only specified pages"
+msgstr "Защитить только указанные страницы"
+
+#: manage/admin.php:161 manage/admin.php:179
+msgid "Pro version from here!"
+msgstr "Щелкните здесь, чтобы перейти к Pro версии!"
+
+#: manage/admin.php:174
+msgid "Disable F12 for Windows"
+msgstr "Отключить F12 для Windows"
+
+#. Author of the plugin
+msgid "Kazuki Yanamoto"
+msgstr "Kazuki Yanamoto"
+
+#. Description of the plugin
+msgid "This plugin wll protect the posts content from copying by disable right click and disable selecting text. You can exclude pages and posts. It also keeps from dragging images.  The message window can change color design. You can protect only specified pages and posts."
+msgstr "Этот плагин защищает содержимое записей от копирования, отключая правый клик и отключая выделение текста. Вы можете исключить страницы и записи. Он также предотвращает перетаскивание изображений.  Окно сообщения может менять цветовое оформление. Вы можете защитить только указанные страницы и записи."
+
+#. Plugin URI of the plugin
+msgid "https://global-s-h.com/wp_protect/en/"
+msgstr "https://global-s-h.com/wp_protect/en/"
+
+#. Plugin Name of the plugin
+msgid "WP Content Copy Protection with Color Design"
+msgstr "WP Content Copy Protection with Color Design"
+
+#: wp_copy_design.php:233
+msgid "WP Protect setting"
+msgstr "WP Protect"
+
+#: wp_copy_design.php:157
+msgid "Don`t copy text!"
+msgstr "Не копируйте текст!"
+
+#: manage/admin.php:288
+msgid "Donate"
+msgstr "Пожертвовать"
+
+#: manage/admin.php:288
+msgid "Help page for troubles"
+msgstr "Страница помощи при проблемах"
+
+#: manage/admin.php:284
+msgid "Please see the explanation of this plugin from here!"
+msgstr "Щелкните здесь, чтобы увидеть описание плагина!"
+
+#: manage/admin.php:235
+msgid "Save this setting"
+msgstr "Сохранить эту настройку"
+
+#: manage/admin.php:210 manage/admin.php:224
+msgid "Input page ID. ex: 1,2,3,4"
+msgstr "Введите ID страницы. напр.: 1,2,3,4"
+
+#: manage/admin.php:207
+msgid "Exclude pages"
+msgstr "Исключить страницы"
+
+#: manage/admin.php:152 manage/admin.php:159 manage/admin.php:177
+#: manage/admin.php:189 manage/admin.php:196 manage/admin.php:203
+msgid "Yes"
+msgstr "Да"
+
+#: manage/admin.php:193
+msgid "Exclude login users"
+msgstr "Исключить авторизованных пользователей"
+
+#: manage/admin.php:168
+msgid "Warning back color"
+msgstr "Цвет фона предупреждения"
+
+#: manage/admin.php:145
+msgid "Less than 159 letters"
+msgstr "Менее 159 букв"
+
+#: manage/admin.php:143
+msgid "No right click + Message"
+msgstr "Нет правого щелчка + Сообщение"
+
+#: manage/admin.php:141
+msgid "No right click + No message"
+msgstr "Нет правого щелчка + Нет сообщения"
+
+#: manage/admin.php:138
+msgid "Disable right mouse click"
+msgstr "Отключить правый клик мыши"
